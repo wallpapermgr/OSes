@@ -5,7 +5,7 @@ OSes wallpapers
 Automatic install/update:
   
 ```shell
-bash -c "$(curl -LSs https://github.com/wallpapermgr/OSes/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/wallpapermgr/OSes/raw/main/install.sh)"
 ```
   
 Manual install:
